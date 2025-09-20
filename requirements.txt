@@ -1,0 +1,8 @@
+fastapi==0.114.0
+uvicorn[standard]==0.30.0
+pillow==10.4.0
+python-multipart==0.0.9
+ultralytics==8.2.103
+opencv-python-headless==4.10.0.84
+# (ตัวเลือก ถ้าอยาก fix เวอร์ชัน torch ให้เสถียร)
+# torch==2.4.1
